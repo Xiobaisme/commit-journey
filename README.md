@@ -5,3 +5,4 @@ Commit ke-2: Update README
 Commit ke-3: Progress commit
 Commit ke-4: Update dokumentasi
 Commit ke-5: Minor update
+Commit ke-6: Dokumentasi tambahan
